@@ -4,6 +4,7 @@ import { fileURLToPath } from 'url';
 import fs from 'fs';
 import dotenv from 'dotenv';
 
+
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 // Load environment variables from .env.local
