@@ -1,5 +1,6 @@
 # Voice Call Guide for Healthcare App
 
+
 ## Overview
 The healthcare app now supports both SMS and voice call notifications for medication reminders. This feature uses Twilio's voice API to make automated phone calls to remind patients to take their medications.
 
